@@ -1,6 +1,6 @@
-using UnityEngine;
+﻿using UnityEngine;
 
-namespace DilmerGames.Core
+namespace DilmerGames.Core.Singletons
 {
     public class Singleton<T> : MonoBehaviour
         where T : Component
